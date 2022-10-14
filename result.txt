@@ -1,1 +1,9 @@
-2
+
+None                None                None                
+None                Hole @ (18.0, 0.0)  None                
+None                Hole @ (18.0, 0.0)  Hole @ (25.0, 0.0)  
+
+Max # of Gophers that can be matched to Holes - 2
+
+Gopher @ (11.0, 0.0) -> Hole @ (18.0, 0.0)
+Gopher @ (20.0, 0.0) -> Hole @ (25.0, 0.0)
